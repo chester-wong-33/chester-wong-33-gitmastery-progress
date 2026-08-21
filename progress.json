@@ -86,5 +86,14 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787330103.733401,
+    "completed_at": 1787330114.091637,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
   }
 ]
