@@ -212,5 +212,14 @@
       "Answer for What's sum of values in west.csv on Jan 09th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787505179.553425,
+    "completed_at": 1787505181.336084,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
   }
 ]
